@@ -42,7 +42,7 @@ A modern, responsive web application for searching, filtering, sorting, and expl
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/your-username/github-explorer-dashboard.git
+   git clone https://github.com/Tobbs101/me-cash.git
    cd github-explorer-dashboard
    ```
 
