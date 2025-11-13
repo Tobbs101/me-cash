@@ -43,7 +43,6 @@ A modern, responsive web application for searching, filtering, sorting, and expl
 
    ```bash
    git clone https://github.com/Tobbs101/me-cash.git
-   cd github-explorer-dashboard
    ```
 
 2. **Install dependencies**
