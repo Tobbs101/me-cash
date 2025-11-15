@@ -259,7 +259,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-For questions or suggestions, please open an issue or contact [your-email@example.com](mailto:your-email@example.com).
+For questions or suggestions, please open an issue or contact [idtobi8@gmail.com](mailto:idtobi8@gmail.com).
 
 ---
 
